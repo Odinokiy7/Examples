@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Assalamu Aleykum ya Ahi!");
